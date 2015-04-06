@@ -1,0 +1,27 @@
+{
+  "name": "react-query",
+  "version": "0.0.1",
+  "description": "Query model to interface with paginated API data",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thenyel/react-query.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Danniel Condez @thenyel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thenyel/react-query/issues"
+  },
+  "homepage": "https://github.com/thenyel/react-query",
+  "devDependencies": {
+    "jsxhint": "^0.14.0",
+    "mocha": "^2.2.1",
+    "mochify": "^2.7.0"
+  }
+}
