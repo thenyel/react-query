@@ -2,7 +2,7 @@
   "name": "react-query",
   "version": "0.0.1",
   "description": "Query model to interface with paginated API data",
-  "main": "dist/index.js",
+  "main": "lib/query.js",
   "scripts": {
     "test": "make test"
   },
@@ -22,6 +22,10 @@
   "devDependencies": {
     "jsxhint": "^0.14.0",
     "mocha": "^2.2.1",
-    "mochify": "^2.7.0"
+    "mochify": "^2.7.0",
+    "jasmine-node": "^1.14.5"
+  },
+  "dependencies": {
+    "jquery": "^2.1.3"
   }
 }
